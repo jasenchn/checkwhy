@@ -1,5 +1,8 @@
 ### CHECKWHY
-Glad to be awarded as an outstanding paper award and area chair award. The code and datasets for our ACL 2024 paper: "CHECKWHY: Causal Fact Verification via Argument Structure."
+Glad to be awarded as an outstanding paper award and area chair award. The datasets for our ACL 2024 paper: "CHECKWHY: Causal Fact Verification via Argument Structure." is included in: 
+https://drive.google.com/drive/folders/1jHk1k4UpoyuuvEChRbcrVSZj-QPXM0N-?usp=drive_link
+
+
 
 **Note**: we provide the train.json and dev.json in this repo. If you need the test.json, please email me: jiashengsi@qlu.edu.cn
 
